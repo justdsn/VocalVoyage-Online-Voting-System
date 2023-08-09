@@ -104,10 +104,6 @@ The database structure includes tables for users (contestants, voters), votes, a
 
 We welcome contributions to enhance the VocalVoyage Online Voting System. Feel free to create issues or submit pull requests for improvements.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ---
 
 Thank you for your interest in the VocalVoyage Online Voting System! We believe this platform will enhance the voting experience for the "VocalVoyage" reality show and engage participants and viewers in an exciting and interactive manner.
